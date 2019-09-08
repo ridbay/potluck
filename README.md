@@ -1,13 +1,8 @@
 
-## Available Scripts
+## The Fun Food Friends, an application for planning your next potluck
 
+### About the App
 
-### `npm start`
+A potluck is a communal gathering where each guest or group contributes a different, often homemade dish of food to be shared.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-##Serving
-- Local:        http://localhost:5000  
-On Your Network:  http://192.168.8.100:5000 
+Click [https://potluck-food.herokuapp.com](https://potluck-food.herokuapp.com) to view it in the browser.
