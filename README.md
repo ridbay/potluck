@@ -5,4 +5,4 @@
 
 A potluck is a communal gathering where each guest or group contributes a different, often homemade dish of food to be shared.
 
-Click [https://gentle-temple-33990.herokuapp.com/](https://gentle-temple-33990.herokuapp.com/) to view it in the browser.
+Click [https://gentle-temple-33990.herokuapp.com/](https://potluck.com) to view it in the browser.
