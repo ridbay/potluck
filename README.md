@@ -1,5 +1,5 @@
 
-## The Fun Food Friends, an application for planning your next potluck
+## The Fun Food Friends, an application for planning your next potluck built with Reactjs & Firebase, hosted on Heroku.
 
 ### About the App
 
